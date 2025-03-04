@@ -10,7 +10,7 @@ local config = {
 
 local whitelist = {
     "Itachi_cnp7",
-    "Player2",
+    "Contadetutui",
     "Player3"
 }
 
